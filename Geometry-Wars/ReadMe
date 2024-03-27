@@ -1,1 +1,20 @@
-The very first
+Geometry Wars(Fake)
+Demonstrated and thought by Dave Churchill - https://www.youtube.com/playlist?list=PL_xRyXins848nDj2v-TJYahzvs-XW9sVV
+
+Steps:
+1. Extract files from zip
+2. Run the app Geometry-War
+
+Note: Do not change anything else except
+        Window 1250 650 60 *1* - that is toggle between 1-(Fullscreen) and 0.
+      Make sure all files are in same location
+
+Game has no menu or other scenes apart.
+
+Instructions
+Movement - Arrow keys
+Basic weapon - mouse left click
+Special weapon - mouse right click
+toggle special weapon - keyboard key C
+Pause - keyboard key P
+End - Keyboard key esc
