@@ -1,7 +1,7 @@
 # Game Playground
 
 ## [Archer Adventure](https://github.com/Okwara-Favour/Game-PLAYGROUND/tree/main/Archer-Adventure)
-https://github.com/user-attachments/assets/a9e175d5-0654-4069-abbd-70730860a773
+https://github.com/user-attachments/assets/33be40c6-bcf7-4284-8666-c34fbf52c560
 
 ## [Geometry Wars](https://github.com/Okwara-Favour/Game-PLAYGROUND/tree/main/Geometry-Wars)
 https://github.com/user-attachments/assets/b184fe44-83b4-4d1f-8f21-01e0735538ba
